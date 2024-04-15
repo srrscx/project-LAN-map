@@ -1,0 +1,5 @@
+on react
+- npm start
+
+on django
+- python manage.py runserver
